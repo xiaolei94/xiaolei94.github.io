@@ -3,7 +3,7 @@
 ## Introduction
 
 - Research Interests: XXX
-- EMail: wangxiaolei_wxl<at>buaa.edu.cn
+- EMail: `wangxiaolei_wxl <at> buaa.edu.cn`
 
 ## Publication
 
